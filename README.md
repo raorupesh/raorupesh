@@ -21,3 +21,5 @@
 <a href="https://github.com/raorupesh/raorupesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raorupesh&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" alt="Thepetapixl's GitHub Stats" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raorupesh&%22%20alt=%22raorupesh%22" alt="raorupesh" /></p>
