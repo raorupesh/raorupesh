@@ -52,17 +52,13 @@
 
 ### 💻 Projects
 
-<p align="center">
-  <a href="https://github.com/raorupesh/SpendMate" target="_blank">
-    <img src="https://img.shields.io/badge/SpendMate-Expense%20Manager-blue?style=for-the-badge" alt="SpendMate"/>
-  </a>
-  <a href="https://github.com/raorupesh/AGRODEC" target="_blank">
-    <img src="https://img.shields.io/badge/AGRODEC-Agricultural%20Decision%20App-green?style=for-the-badge" alt="AGRODEC"/>
-  </a>
-  <a href="https://github.com/raorupesh/SmartParkingSystem" target="_blank">
-    <img src="https://img.shields.io/badge/SmartParkingSystem-IoT%20Parking%20Solution-orange?style=for-the-badge" alt="SmartParkingSystem"/>
-  </a>
-</p>
+<div align="center">
+
+[![SpendMate](https://github-readme-stats.vercel.app/api/pin/?username=raorupesh&repo=SpendMate&theme=radical&show_owner=true)](https://github.com/raorupesh/SpendMate)
+[![AGRODEC](https://github-readme-stats.vercel.app/api/pin/?username=raorupesh&repo=AGRODEC&theme=radical&show_owner=true)](https://github.com/raorupesh/AGRODEC)
+[![Smart Parking System](https://github-readme-stats.vercel.app/api/pin/?username=raorupesh&repo=SmartParkingSystem&theme=radical&show_owner=true)](https://github.com/raorupesh/SmartParkingSystem)
+
+</div>
 
 - **[SpendMate](https://github.com/raorupesh/SpendMate)** – A Splitwise-like mobile app for group expense and task management built with Flutter and Provider. Features creation, sharing, and tracking of shared expenses and tasks.  
 - **[AGRODEC](https://github.com/raorupesh/AGRODEC)** – Web application assisting agricultural decision-making using real-time data, analytics, and visualization. Published in IJRASET.  
