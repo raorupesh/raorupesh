@@ -1,82 +1,126 @@
-# Hi 👋, I'm Rupeshwar Rao
-### Crafting the Future, One Keystroke at a Time
+# Hi, I’m Rupeshwar Rao
 
-📫 [raorupesh24@gmail.com](mailto:raorupesh24@gmail.com)
+**Software Development Engineer | MS in Computer Science**  
+Focused on building **reliable, scalable, and well-designed systems**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver;Open+Source+Contributor)
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raorupeshwar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/raorupesh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raorupesh)
+📍 United States  
+📫 [raorupesh24@gmail.com](mailto:raorupesh24@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/raorupeshwar) · [GitHub](https://github.com/raorupesh) · [LeetCode](https://leetcode.com/raorupesh)
 
 ---
 
-## 🛠 Languages & Tools
+## About Me
 
-![Programming Languages](https://skillicons.dev/icons?i=angular,js,ts,cs,dotnet,python,cpp,c)
-![Tools & Technologies](https://skillicons.dev/icons?i=aws,azure,mysql,postgresql,sqlite,git,figma,bootstrap)
+I am a Master’s student in Computer Science with a strong interest in **backend systems, full-stack development, and cloud-native architectures**. I enjoy translating real-world problems into clean, maintainable software and thinking deeply about **design tradeoffs, scalability, and reliability**.
 
----
-
-## 💻 Featured Projects
-
-| 🚀 Project | 📝 Description | 🔗 Tech Stack |
-|------------|-----------------|----------------|
-| **[SpendMate](https://github.com/raorupesh/SpendMate)** | Splitwise-like mobile app for group expense & task management | Flutter, Provider, Dart |
-| **[AGRODEC](https://github.com/raorupesh/AGRODEC)** | Agricultural decision-making web app with real-time analytics | Web Technologies, Analytics |
-| **[Smart Parking System](https://github.com/raorupesh/SmartParkingSystem)** | IoT-based intelligent parking with ML for vehicle detection | IoT, Machine Learning, Python |
+My approach to engineering emphasizes:
+- Clear system design and data modeling
+- Writing readable, testable, and extensible code
+- Understanding failure modes and edge cases
+- Continuous learning through hands-on projects
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Engineering Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raorupesh&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&line_height=27&border_radius=10)
+> These projects represent how I think as an engineer, not just what technologies I know.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raorupesh&theme=tokyonight&border_radius=10)
+### SpendMate  
+**Splitwise-like mobile application for group expense and task management**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raorupesh&layout=donut&theme=tokyonight&border_radius=10)
+**Tech:** Flutter, Dart, Provider, SQLite  
+🔗 https://github.com/raorupesh/SpendMate
 
----
+**Engineering Highlights**
+- Designed modular state management using Provider
+- Implemented local persistence with SQLite to support offline usage
+- Structured domain models to separate UI, business logic, and data layers
+- Handled edge cases such as invalid inputs and partial data updates
 
-## 🎯 Current Focus
-
-```javascript
-const rupeshwar = {
-    currentFocus: ["Full-Stack Development", "Cloud Architecture", "System Design"],
-    technologies: {
-        frontend: ["Angular", "TypeScript", "Bootstrap"],
-        backend: [".NET Core", "C#", "Python"],
-        cloud: ["AWS", "Azure"],
-        databases: ["SQL Server", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "Figma"]
-    },
-    currentlyLearning: ["Microservices", "DevOps", "Cloud Native Technologies"],
-    goals: ["Contribute to Open Source", "Build Scalable Applications", "Share Knowledge"]
-};
-```
+**Planned Improvements**
+- Backend synchronization using REST APIs
+- Authentication and authorization
+- Improved test coverage for core business logic
 
 ---
 
-## 💬 About Me
+### AGRODEC  
+**Data-driven agricultural decision support web application**
 
-I'm a passionate software developer focused on **full-stack development, cloud platforms, and scalable applications**. I enjoy building projects that solve real-world problems, learning new technologies continuously, and contributing to open-source communities.
+**Tech:** Web Technologies, Analytics  
+🔗 https://github.com/raorupesh/AGRODEC
+
+**Engineering Highlights**
+- Built a decision-support system using real-world agricultural inputs
+- Designed dashboards to surface actionable insights for end users
+- Focused on usability and clarity for non-technical stakeholders
+
+**Key Learning**
+- Converting ambiguous problem statements into concrete software requirements
+- Balancing analytical depth with simplicity and performance
 
 ---
 
-## 🏆 Achievements & Certifications
+### Smart Parking System  
+**IoT-based intelligent parking system with ML-driven vehicle detection**
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-00D4AA?style=for-the-badge&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Backend%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Tech:** Python, Machine Learning, IoT  
+🔗 https://github.com/raorupesh/SmartParkingSystem
+
+**Engineering Highlights**
+- Integrated ML models for vehicle detection and classification
+- Designed an end-to-end pipeline from sensor input to system output
+- Considered latency, accuracy, and deployment constraints
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=raorupesh&icon=0&color=6)
+## Technical Skills
 
-### ⭐ Don't forget to star my repositories if you find them useful!
+**Programming Languages**
+- Python, C#, Dart, TypeScript, JavaScript, C++
+
+**Backend & Databases**
+- .NET Core, REST APIs
+- PostgreSQL, MySQL, SQLite
+
+**Frontend & Mobile**
+- Angular, Flutter, Bootstrap
+
+**Cloud & DevOps**
+- AWS, Azure
+- Docker (working knowledge)
+
+**Core Computer Science**
+- Data Structures & Algorithms
+- Object-Oriented Design
+- System Design Fundamentals
+
+---
+
+## Current Focus (2025–2026)
+
+- Building **1–2 production-quality projects** with backend and cloud components
+- Strengthening **DSA and system design** for SDE interviews
+- Improving documentation, architecture diagrams, and design explanations
+- Preparing for **SDE internships and full-time roles in 2026**
+
+---
+
+## How I Use GitHub
+
+- Each primary project includes:
+  - A clear problem statement
+  - Architecture and design decisions
+  - Tradeoffs and future improvements
+- I prioritize **depth, clarity, and ownership** over the number of repositories
+
+---
+
+## Publications
+
+- *Agricultural Based Decisions: AGRODEC Web Application* – IJRASET  
+- *Smart Parking System using Machine Learning and Internet of Things*
+
+---
+
+⭐ If a project is helpful, feel free to star the repository.
