@@ -1,12 +1,12 @@
 # Hey, I'm Rupeshwar Rao 👋
 
-Software Engineer with 3 years of experience building backend microservices,
+Software Engineer with 4 years of experience building backend microservices,
 full-stack web apps, and cloud-deployed systems. I work across the stack
 .NET APIs, Angular/Next.js frontends, and AWS/Azure infrastructure and I
 care about systems that are well-structured, observable, and maintainable.
 
 📍 United States &nbsp;·&nbsp;
-📫 [raorupesh24@gmail.com](mailto:raorupesh24@gmail.com) &nbsp;·&nbsp;
+📫 [Email](mailto:rupesh.inquiries@gmail.com) &nbsp;·&nbsp;
 🔗 [LinkedIn](https://linkedin.com/in/raorupeshwar) &nbsp;·&nbsp;
 💻 [LeetCode](https://leetcode.com/raorupesh)
 
@@ -106,7 +106,7 @@ care about systems that are well-structured, observable, and maintainable.
 
 ## A Bit More
 
-3 years in, I've shipped features under deadline, debugged production issues under pressure, and cleaned up code that nobody wanted to touch. I know what it takes to go from local dev to something actually running in the cloud with users on it.
+4 years in, I've shipped features under deadline, debugged production issues under pressure, and cleaned up code that nobody wanted to touch. I know what it takes to go from local dev to something actually running in the cloud with users on it.
 
 I'm looking for **SDE, Full Stack, or Cloud Engineer roles** where the problems are real and the team gives a damn about how things are built.
 
