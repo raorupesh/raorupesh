@@ -1,115 +1,131 @@
-# Hey, I'm Rupeshwar Rao 👋
+<h1 align="center">Rupeshwar Rao</h1>
 
-Software Engineer with 4 years of experience building backend microservices,
-full-stack web apps, and cloud-deployed systems. I work across the stack
-.NET APIs, Angular/Next.js frontends, and AWS/Azure infrastructure and I
-care about systems that are well-structured, observable, and maintainable.
+<p align="center">
+  <strong>Backend & Full-Stack Engineer</strong> · 4 Years Experience · Open to Full-Time Roles in the US
+</p>
 
-📍 United States &nbsp;·&nbsp;
-📫 [Email](mailto:rupesh.inquiries@gmail.com) &nbsp;·&nbsp;
-🔗 [LinkedIn](https://linkedin.com/in/raorupeshwar) &nbsp;·&nbsp;
-💻 [LeetCode](https://leetcode.com/raorupesh)
+<p align="center">
+  <a href="mailto:rupesh.inquiries@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/raorupeshwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/raorupesh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+</p>
 
 ---
 
-## What I Work With
+## About
 
-| Layer | Stack |
+I build and maintain production-grade backend systems and full-stack applications that serve real users at scale. Over 4 years in Tech Industry and through independent projects, I've shipped microservices handling 10K+ daily API requests, migrated legacy systems to the cloud, and led cross-functional delivery across multiple scrum teams.
+
+My work centers on designing clean APIs, building reliable distributed systems, and solving problems where performance, scalability, and maintainability matter. I'm currently seeking **Full-Time Software Engineer** roles backend, full-stack, or cloud-focused where the problems are hard and the engineering culture is strong.
+
+---
+
+## Core Expertise
+
+| Category | Technologies |
 |---|---|
-| **Backend** | .NET Core, C#, Node.js, Express.js, Python, REST APIs, Microservices |
-| **Frontend** | Angular, Next.js, React, TypeScript, JavaScript, TailwindCSS |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, RDS), Azure (App Service, Functions, AD), Docker |
+| **Languages** | C#, TypeScript, JavaScript, Python, Dart |
+| **Backend** | .NET, Node.js, Express.js, REST APIs, Microservices |
+| **Frontend** | Angular, Next.js, React, TailwindCSS |
 | **Databases** | PostgreSQL, MongoDB, MySQL, SQLite |
-| **Auth & APIs** | JWT, Google SSO, OAuth, Swagger/OpenAPI |
-| **Other** | SharePoint, Flutter, Drizzle ORM, Mongoose |
+| **Cloud** | AWS, Azure, Azure App Service, Azure AD |
+| **DevOps** | Docker, CI/CD, Cloud-Native Deployment |
+| **Auth & APIs** | JWT, OAuth, Swagger/OpenAPI, Google SSO |
+| **AI/ML** | Gemini API, Machine Learning (IoT edge inference) |
+| **Tools** | Git, Drizzle ORM, Vite, Resend |
 
 ---
 
-## Projects
+## Professional Highlights
 
-### ⚙️ Remorph - AI Code Refactoring Tool
-> Paste or upload code, get it refactored by Gemini AI, and see exactly what changed in a side-by-side diff.
-
-**Node.js · Express.js · Google Gemini 1.5 Flash API · diff-match-patch · Vite**
-
-- Integrated Google Gemini 1.5 Flash to analyze and refactor code across 9 languages (.js, .ts, .py, .java, .cs, .cpp, .go, .rb, .php).
-- Built a line-level diff engine using diff-match-patch that color-codes additions (green) and deletions (red) in a toggle-able side-by-side view.
-- Auto-detects programming language from uploaded file extension no manual selection needed.
-- Keeps the API key server-side in a .env file; frontend never touches credentials.
-
-🔗 [github.com/raorupesh/Remorph](https://github.com/raorupesh/Remorph)
+- Architected and maintained enterprise .NET microservices handling **10K+ daily API requests** with Azure AD integration
+- Built full-stack internal tools (Angular + Node.js) that **reduced manual reporting time by 60%**
+- Led migration of legacy on-premise services to **cloud-native Azure App Service** deployments
+- Designed relational PostgreSQL schemas with **Drizzle ORM** for type-safe, maintainable data layers
+- Implemented **Google SSO** and JWT-based auth flows for production web applications
+- Wrote comprehensive test suites (**Mocha + Chai-HTTP**) covering CRUD, pagination, and edge cases
+- Shipped self-documenting APIs with **Swagger/OpenAPI** specs for internal and external consumers
+- Delivered features across **3 cross-functional scrum teams** on tight quarterly deadlines
+- Published research on IoT + ML edge systems for real-time vehicle detection
 
 ---
 
-### 📝 Mean - Medium-like Blogging Platform
-> Full-stack blogging platform with auth, scheduling, and a clean dev experience.
+## Featured Projects
 
-**Next.js 14 · PostgreSQL (Neon) · Drizzle ORM · JWT · Resend · UploadThing · TailwindCSS**
+### Remorph: AI Code Refactoring Tool
 
-- Built end-to-end: authentication with JWT + HTTP-only cookies, CRUD for posts/comments/bookmarks, tag filtering, and image uploads via UploadThing.
-- Designed a relational PostgreSQL schema (users, posts, comments, tags, bookmarks, calls) with Drizzle ORM for type-safe queries.
-- Integrated Resend for transactional email and built a call scheduling system for author-reader interactions.
-- Shipped Swagger/OpenAPI docs in-app so the API is self-documenting out of the box.
-- Deployed on Vercel with environment-based config.
+Side-by-side diff viewer powered by Gemini 1.5 Flash. Paste code, get refactored output, review every change.
 
-🔗 [github.com/raorupesh/mean-blog](https://github.com/raorupesh/Mean_Blogging_Platform)
+- **Architecture:** Express.js backend proxies code to Gemini API; Vite-powered frontend renders line-level diffs using diff-match-patch
+- **Scope:** Supports 9 languages with auto-detection; API keys kept server-side
+- **Stack:** Node.js · Express · Gemini 1.5 Flash · Vite · diff-match-patch
 
----
-
-### 🎙️ EchoJournal - Mood Tracking SaaS
-> A journaling app that lets users log moods and emotions, track patterns over time, and reflect on their mental well-being.
-
-**Angular · Node.js · Express.js · MongoDB · Mongoose · Google SSO · Azure · Mocha · Chai**
-
-- Architected a RESTful API with clean separation between journal entry and emotion entry domains.
-- Implemented Google SSO for authentication, removing the friction of password-based signup.
-- Wrote a full test suite using Mocha and Chai-HTTP covering creation, retrieval, invalid input handling, pagination, and edge cases.
-- Deployed the full stack to Azure App Service with the Angular build served from the same Express server.
-
-🔗 [github.com/raorupesh/EchoJournal-Mood-Booster](https://github.com/raorupesh/EchoJournal-Mood-Booster)
+[GitHub →](https://github.com/raorupesh/Remorph)
 
 ---
 
-### 🧾 SpendMate - Group Expense Manager
-> Mobile-first expense splitting app with offline-first data storage.
+### Mean: Full-Stack Blogging Platform
 
-**Flutter · Dart · Provider · SQLite**
+Medium-style blogging platform with JWT auth, post scheduling, bookmarks, and call scheduling between authors and readers.
 
-- Designed a layered domain model separating UI, business logic, and data adding new features doesn't touch unrelated layers.
-- Implemented offline-first local persistence with SQLite so the app works fully without a network connection.
-- Currently building: REST backend with JWT auth and cloud sync.
+- **Architecture:** Next.js 14 + PostgreSQL with Drizzle ORM; Resend for transactional email; self-documenting Swagger API
+- **Scope:** Full CRUD, relational schema (users, posts, comments, tags, bookmarks, calls), scheduling system
+- **Stack:** Next.js 14 · PostgreSQL · Drizzle ORM · JWT · TailwindCSS · Resend
 
-🔗 [github.com/raorupesh/SpendMate](https://github.com/raorupesh/SpendMate)
-
----
-
-### 🚗 Smart Parking System *(Published)*
-> IoT system for real-time vehicle detection and classification using ML.
-
-**Python · Machine Learning · IoT**
-
-- Designed end-to-end pipeline: sensor input → ML inference → system output, with failure handling at each stage.
-- Tuned model for the latency-accuracy tradeoff that edge deployment requires.
-- 📄 Published: *Smart Parking System using Machine Learning and Internet of Things*.
-
-🔗 [github.com/raorupesh/SmartParkingSystem](https://github.com/raorupesh/Smart-Parking-Website)
+[GitHub →](https://github.com/raorupesh/Mean_Blogging_Platform)
 
 ---
 
-## What I'm Working On
+### EchoJournal: Mood Tracking SaaS
 
-- Extending **Mean** with real-time notifications and a recommendation engine.
-- Strengthening distributed systems fundamentals: event-driven architecture, CQRS, failure recovery patterns.
-- Exploring open source contributions in the .NET and cloud tooling space.
+Full-stack journaling platform with Google SSO, emotion tagging, and trend visualization. Deployed on Azure.
+
+- **Architecture:** Angular frontend → Express.js REST API → MongoDB; clean domain separation between journal and emotion entries
+- **Scope:** Google SSO, emotion tagging, trend visualization, full test suite
+- **Stack:** Angular · Node.js · Express · MongoDB · Azure · Mocha/Chai
+
+[GitHub →](https://github.com/raorupesh/EchoJournal-Mood-Booster)
 
 ---
 
-## A Bit More
+### SpendMate: Group Expense Manager
 
-4 years in, I've shipped features under deadline, debugged production issues under pressure, and cleaned up code that nobody wanted to touch. I know what it takes to go from local dev to something actually running in the cloud with users on it.
+Mobile-first expense splitting app with offline-first architecture and layered domain separation.
 
-I'm looking for **SDE, Full Stack, or Cloud Engineer roles** where the problems are real and the team gives a damn about how things are built.
+- **Architecture:** Flutter with clean separation (UI → business logic → data layer); SQLite for local persistence
+- **Scope:** Fully functional offline; cloud sync backend in progress
+- **Stack:** Flutter · Dart · SQLite
 
-If that sounds like your team let's talk.
+[GitHub →](https://github.com/raorupesh/SpendMate)
 
-📫 [raorupesh24@gmail.com](mailto:raorupesh24@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/raorupeshwar)
+---
+
+### Smart Parking System *(Published)*
+
+End-to-end IoT pipeline for real-time vehicle detection and classification using ML at the edge.
+
+- **Architecture:** Sensor input → ML inference → system output, tuned for edge latency constraints
+- **Scope:** Published research paper; failure handling at every pipeline stage
+- **Stack:** Python · Machine Learning · IoT · Raspberry Pi
+
+[GitHub →](https://github.com/raorupesh/Smart-Parking-Website)
+
+---
+
+## Engineering Interests
+
+- Distributed Systems & Event-Driven Architecture
+- Cloud-Native Infrastructure & Platform Engineering
+- API Design & Developer Experience
+- Performance Engineering & Observability
+- AI Applications in Production Systems
+- Scalability & Reliability Engineering
+
+---
+
+## Open Source & Research
+
+- Published research paper: *Smart Parking System using Machine Learning and Internet of Things*
+- Contributing to .NET and cloud tooling ecosystem
+
+---
