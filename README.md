@@ -1,7 +1,7 @@
 <h1 align="center">Rupeshwar Rao</h1>
 
 <p align="center">
-  <strong>Backend & Full-Stack Engineer</strong> · 4 Years Experience · Open to Full-Time Roles in the US
+  <strong>Software Engineer</strong> · 3+ Years Experience · Open to Full-Time Roles in the USA
 </p>
 
 <p align="center">
@@ -14,11 +14,12 @@
 
 ## Hi, I'm Rupesh 👋
 
-Backend & full-stack engineer with 4 years of experience shipping production systems.
-At ZS Associates I maintained .NET microservices handling **10K+ daily API requests** on Azure.
-**Currently:** Open to full-time SDE, backend, or cloud roles in the USA · Available immediately
+Most engineers use AI APIs. I fine-tune them.
 
-📬 rupesh.inquiries@gmail.com · [LinkedIn](https://linkedin.com/in/raorupeshwar) · [LeetCode](https://leetcode.com/raorupesh)
+I build full-stack systems end-to-end from a custom emotional-classification model on Azure OpenAI
+to the Angular frontend that makes non-deterministic output feel reliable to a real user.
+Three plus years of production backend experience. Open to SDE and cloud roles in the USA.
+
 ---
 
 ## Tech stack
@@ -37,7 +38,7 @@ At ZS Associates I maintained .NET microservices handling **10K+ daily API reque
 
 ## Projects
 
-### 🔒 SecureOnboard Demo — IDOR / OWASP AppSec
+### 🔒 SecureOnboard Demo: IDOR / OWASP AppSec
 Deliberately vulnerable app (MODE=vulnerable) paired with a patched version (MODE=patched).
 Demonstrates broken object-level authorization (OWASP A01) end-to-end: exploit, impact, and fix.
 
@@ -46,7 +47,7 @@ Demonstrates broken object-level authorization (OWASP A01) end-to-end: exploit, 
 
 ---
 
-### 🧠 EchoJournal — AI Mood Tracking SaaS
+### 🧠 EchoJournal: AI Mood Tracking SaaS
 Full-stack journaling platform with a **fine-tuned OpenAI Azure model** for emotional classification.
 The "Memories" feature reframes past entries as success stories using prompt engineering + model output handling.
 
@@ -55,7 +56,7 @@ The "Memories" feature reframes past entries as success stories using prompt eng
 
 ---
 
-### 📝 Mean — Full-Stack Blogging Platform
+### 📝 Mean: Full-Stack Blogging Platform
 Medium-style platform with JWT auth (HTTP-only cookies), Drizzle ORM schema, Swagger/OpenAPI docs,
 transactional email via Resend, and call scheduling between authors and readers.
 
@@ -64,7 +65,7 @@ transactional email via Resend, and call scheduling between authors and readers.
 
 ---
 
-### 🔧 Remorph — AI Code Refactoring CLI
+### 🔧 Remorph: AI Code Refactoring CLI
 AST-aware refactoring tool powered by Gemini 1.5 Flash. Auto-detects language (9 supported),
 parses code structure, and renders a side-by-side diff. Integrates as a pre-commit hook.
 
